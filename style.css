@@ -1,0 +1,15 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+.link{
+    font-size: 25px;
+    border-radius: 10px;
+    width: 250px;
+    margin-top: 15px;
+}
+
+.link:hover{
+    font-size: 28px;
+}
